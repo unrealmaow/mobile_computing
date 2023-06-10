@@ -58,3 +58,14 @@ console.log(sum(5,7,3,2,7,1,7));
 const {name: newName, ...remainingObj} = userObject;
 console.log(newName, remainingObj);
 console.groupEnd();
+
+//adding more key values in object
+// let sameelObj = {
+//     name: "sameel",
+//     age: 26
+// }
+
+// sameelObj["address"] = "street 10";
+
+// console.log(sameelObj)
+
